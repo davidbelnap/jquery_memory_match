@@ -1,18 +1,29 @@
 h1 {
-	font-family: 'Gloria Hallelujah', cursive;
-}
-h1 {
-	text-align: center;
-}
-p {
-font-family: 'Shadows Into Light', cursive;
-}
-p {
+	font-family: 'Quicksand', sans-serif;
+	color: white;
 	text-align: center;
 }
 
+p, .btn, .s3 {
+	font-family: 'Khula', sans-serif;
+	text-align: center;
+	color: white;
+}
+
 .s3 {
-	border: solid black 2px;
-	border-radius: 6px
+	border: solid gray 1px;
+	border-radius: 4px
+
+}
+
+#row {
+	justify-content: center;
+}
+
+body {
+	background-image: url("images/background.jpg");
+}
+
+#section {
 
 }
