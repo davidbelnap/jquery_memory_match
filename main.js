@@ -1,0 +1,1 @@
+san_francisco.src = 'images/san_francisco'

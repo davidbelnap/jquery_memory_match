@@ -1,0 +1,18 @@
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+h1 {
+	text-align: center;
+}
+p {
+font-family: 'Shadows Into Light', cursive;
+}
+p {
+	text-align: center;
+}
+
+.s3 {
+	border: solid black 2px;
+	border-radius: 6px
+
+}
